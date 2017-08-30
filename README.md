@@ -1,3 +1,5 @@
+基于mycat官方1.5.1-release版本，支持多库分表，参见schemal.xml
+
 
 # [MyCAT](http://mycat.io/)
 [![GitHub issues](https://img.shields.io/github/issues/MyCATApache/Mycat-Server.svg)](https://github.com/MyCATApache/Mycat-Server/issues)
